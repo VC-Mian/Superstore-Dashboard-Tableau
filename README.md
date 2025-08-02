@@ -20,8 +20,6 @@ Created an interactive Tableau dashboard to analyze Superstore's historical perf
 * How have sales categories performed over time — which have grown or declined the most?
 * How have discounting patterns and their impact on profit varied across different states over time?
 * Which product categories are most profitable in each customer segment?
-- Each question was designed to be answerable through visual analysis
-- Questions focused on geographical performance, category trends, and sales patterns
 
 ### 2. Data Exploration & Visualization Design
 - **Exploratory Data Analysis**: Investigated Superstore dataset to understand data structure and relationships
