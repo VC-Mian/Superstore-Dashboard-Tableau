@@ -15,7 +15,7 @@ Created an interactive Tableau dashboard to analyze Superstore's historical perf
 **Main Objective:** Provide an overview of company performance across states and sales categories
 
 **Key Business Questions Developed:**
-- What is the average or total sales performance in each state?
+- **What is the average or total sales performance in each state?
 - What are the profit margins from products in each subcategory within their respective categories?
 - How have sales categories performed over time — which have grown or declined the most?
 - How have discounting patterns and their impact on profit varied across different states over time?
