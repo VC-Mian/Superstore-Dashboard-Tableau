@@ -15,11 +15,11 @@ Created an interactive Tableau dashboard to analyze Superstore's historical perf
 **Main Objective:** Provide an overview of company performance across states and sales categories
 
 **Key Business Questions Developed:**
-- * What is the average or total sales performance in each state?
-- What are the profit margins from products in each subcategory within their respective categories?
-- How have sales categories performed over time — which have grown or declined the most?
-- How have discounting patterns and their impact on profit varied across different states over time?
-- Which product categories are most profitable in each customer segment?
+* What is the average or total sales performance in each state?
+* What are the profit margins from products in each subcategory within their respective categories?
+* How have sales categories performed over time — which have grown or declined the most?
+* How have discounting patterns and their impact on profit varied across different states over time?
+* Which product categories are most profitable in each customer segment?
 - Each question was designed to be answerable through visual analysis
 - Questions focused on geographical performance, category trends, and sales patterns
 
